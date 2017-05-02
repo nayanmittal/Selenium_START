@@ -8,6 +8,8 @@ For Family business
 1) Start giving coins in washing powder packets
 2) Give coupans inside the sack instead of giving 1 or 2 kg extra on 1 sack 
 3) start giving gift to SS or Agency Holder's (give durable product ) 
+
+
 4) 
 
 Ensurre Dispiline
@@ -33,3 +35,5 @@ info@hsbc.co.in
 "//android.widget.radiobutton[Contains(@name,'jb') and @text='']"
 
 adb shell pm list packages -f
+
+CHANGING TO CHECK GIT HUB MERGE PROCESS
